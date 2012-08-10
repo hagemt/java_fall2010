@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2011-05-04 04:19:44.590 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.3.3.0 - (652961): instance c013800d-012f-b93b-a445-000003282298
+on database directory /home/teh/.workspace/Homework #12/JDBC  
+
+Database Class Loader started - derby.database.classpath=''
+
+2011-05-04 04:21:15.282 GMT:
+Shutting down instance c013800d-012f-b93b-a445-000003282298
+----------------------------------------------------------------

@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+2010-12-01 00:33:26.319 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.3.3.0 - (652961): instance c013800d-012c-9f59-1c94-0000032a9840
+on database directory /home/teh/.workspace/Exercise 22.1/MurachDB  
+
+Database Class Loader started - derby.database.classpath=''
+
+2010-12-01 00:33:33.448 GMT:
+Shutting down instance c013800d-012c-9f59-1c94-0000032a9840
+----------------------------------------------------------------
