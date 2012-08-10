@@ -11,9 +11,3 @@
 */.project
 */.classpath
 */.settings/*
-
-# Miscellaneous Files #
-*.zip
-*/db-derby*/*
-*/JDBC/*
-*/MurachDB/*
